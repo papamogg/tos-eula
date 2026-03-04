@@ -27,9 +27,9 @@ If you obtained the App via the Apple App Store:
 
 ## 5. In-App Purchases and Subscriptions
 The Service may offer certain features or content via in-app purchases or subscriptions ("Premium Features").
-- Payment Processing: All transactions are securely processed through the applicable app store (Apple App Store or Google Play Store) and managed using our third-party provider, RevenueCat. We do not collect or store your payment details.
-- Auto-Renewal: If you purchase a recurring subscription, it will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
-- Cancellations and Refunds: You can manage your subscriptions and turn off auto-renewal by going to your App Store or Google Play Account Settings after purchase. Because payments are handled entirely by Apple or Google, we cannot directly process cancellations or grant refunds. You must request any refunds directly through the respective app store's support channels.
+- **Payment Processing**: All transactions are securely processed through the applicable app store (Apple App Store or Google Play Store) and managed using our third-party provider, RevenueCat. We do not collect or store your payment details.
+- **Auto-Renewal**: If you purchase a recurring subscription, it will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
+- **Cancellations and Refunds**: You can manage your subscriptions and turn off auto-renewal by going to your App Store or Google Play Account Settings after purchase. Because payments are handled entirely by Apple or Google, we cannot directly process cancellations or grant refunds. You must request any refunds directly through the respective app store's support channels.
 
 ## 6. Restrictions on Use
 You agree not to, and you will not permit others to:
@@ -53,6 +53,6 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 11. Contact Us
 If you have any questions about these Terms, please contact us at:
-- Email: support@slimespec.com
-- Website: tos-eula.papamog.com
+- **Email**: support@slimespec.com
+- **Website**: tos-eula.papamog.com
 
