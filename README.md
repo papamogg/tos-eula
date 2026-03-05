@@ -32,10 +32,10 @@ If you obtained the App via the Apple App Store:
 **Local Storage**: The Service is designed to store your data and content locally on your device. We do not sync, backup, or store your data on our servers.<br>
 **Data Loss**: Because your data is stored locally, **you are solely responsible for backing up your device**. We are not responsible or liable for any lost data, content, or information resulting from device failure, loss, theft, app uninstallation, or operating system updates. Uninstalling the Service will permanently delete your locally stored data.
 
-## 5. Software Updates and Maintenance
+## 6. Software Updates and Maintenance
 We may from time to time provide enhancements or improvements to the features/functionality of the Service. You agree that Papa Mog has no obligation to (i) provide any updates, or (ii) continue to provide or enable any particular features or functionalities. You further acknowledge that updates may modify or delete certain local data or features, and you agree that Papa Mog shall have no liability for such modifications or deletions.
 
-## 6. In-App Purchases and Subscriptions
+## 7. In-App Purchases and Subscriptions
 The Service may offer certain features or content via in-app purchases or subscriptions ("Premium Features").
 - **Payment Processing**: All transactions are securely processed through the applicable app store (Apple App Store or Google Play Store) and managed using our third-party provider, RevenueCat. We do not collect or store your payment details.
 - **Auto-Renewal**: If you purchase a recurring subscription, it will automatically renew unless auto-renew is turned off at least 24 hours before the end of the current period.
