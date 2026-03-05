@@ -77,4 +77,4 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 ## 18. Contact Us
 If you have any questions about these Terms, please contact us at:
 - **Email**: support@slimespec.com
-- **Website**: tos-eula.papamog.com
+- **Website**: tos-eula.papamog.com 
