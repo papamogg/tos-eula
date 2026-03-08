@@ -1,5 +1,5 @@
 # Terms of Service and End User License Agreement (EULA)
-Last Updated: March 3, 2026
+Last Updated: March 7, 2026
 
 Please read these Terms of Service and End User License Agreement ("Terms", "Terms of Service", or "EULA") carefully before using the SlimeSpec mobile application (the "Service").
 By downloading, installing, or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access or use the Service.
