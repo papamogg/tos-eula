@@ -82,7 +82,7 @@ If any provision of these Terms is held to be unenforceable or invalid, such pro
 We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material, we will provide at least 30 days' notice prior to any new terms taking effect. By continuing to access or use our Service after any revisions become effective, you agree to be bound by the revised terms.
 
 ## 19. Contact Us
-If you have any questions about these Terms, please contact us at:
+If you have any questions about these Terms, please contact us at:<br>
 **Email**: support@slimespec.com<br>
 
 or hop on over in our discord server and open up a ticket with us at:<br>
