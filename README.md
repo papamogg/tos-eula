@@ -1,5 +1,5 @@
 # Terms of Service and End User License Agreement (EULA)
-Last Updated: March 7, 2026
+Last Updated: March 22, 2026
 
 Please read these Terms of Service and End User License Agreement ("Terms", "Terms of Service", or "EULA") carefully before using the SlimeSpec mobile application (the "Service").
 By downloading, installing, or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access or use the Service.
@@ -83,5 +83,10 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 19. Contact Us
 If you have any questions about these Terms, please contact us at:
-- **Email**: support@slimespec.com
-- **Website**: tos-eula.papamog.com 
+**Email**: support@slimespec.com<br>
+
+or hop on over in our discord server and open up a ticket with us at:<br>
+https://discord.gg/PvSxeTEg<br>
+
+Alternatively, you can view our ToS & EULA at:<br>
+https://privacy-policy.slimespec.com
