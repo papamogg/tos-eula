@@ -1,7 +1,7 @@
 # Terms of Service and End User License Agreement (EULA)
 Last Updated: March 22, 2026
 
-Please read these Terms of Service and End User License Agreement ("Terms", "Terms of Service", or "EULA") carefully before using the StalForge Garage mobile application (the "Service").
+Please read these Terms of Service and End User License Agreement ("Terms", "Terms of Service", or "EULA") carefully before using the CeraSpec mobile application (the "Service").
 By downloading, installing, or using the Service, you agree to be bound by these Terms. If you disagree with any part of the terms, then you may not access or use the Service.
 
 ## 1. License Grant
@@ -83,10 +83,10 @@ We reserve the right, at our sole discretion, to modify or replace these Terms a
 
 ## 19. Contact Us
 If you have any questions about these Terms, please contact us at:<br>
-**Email**: support@StalForge Garage.com<br>
+**Email**: support@CeraSpec.com<br>
 
 or hop on over in our discord server and open up a ticket with us at:<br>
 https://discord.gg/PvSxeTEg<br>
 
 Alternatively, you can view our ToS & EULA at:<br>
-https://privacy-policy.StalForge Garage.com
+https://privacy-policy.CeraSpec.com
